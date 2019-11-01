@@ -5,4 +5,5 @@ header_h3.onclick = function (){
 }
 footer_h3.onclick = function (){
     this.style.color = '#333';
+    this.style.height='200px';
 }
